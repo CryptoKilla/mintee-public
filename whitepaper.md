@@ -2,6 +2,8 @@
 Hash: SHA256
 
 
+
+
 # Introducing Mintee.
 
 An all in one NFT art market solution seeking to empower the NFT art community as a whole.
@@ -234,19 +236,21 @@ A: Eventually this project will release most of the pieces of our back end funct
 
 Q: How soon after the Cardano smart contracts update will you be ready to produce Cardano NFTs
 A: We are working with the Cardano updates to testnet as they are released and already working to produce our Cardano smart contract, assuming a smooth update we should be ready to mint immediately.
+
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEC7WoMwMc79jyvAKZAlFb0H/oOtAFAmBpGMcACgkQAlFb0H/o
-OtCk7g//U5XBnJewntiyvb4WvQGTGGP5nld73KsLOTllpWa3YrnJ8o64s+Yeo5jJ
-ss7VxyuNJLhzMAeqWX6XR6LVjs3E4IodwaMY1XQaG/Dyk09ea4iNh26osU6K0BUC
-m4LJ3vp6bqnhTOV9X46MkYFBIx0PZFyIZ9UwzsB6m5oC66Klh5VQgf3/SwIBaSiA
-6kR61tKhOMoEjdfJV+8Wo1jlQMQGPkTvSnLKwq5gyuLu7AceVIbjBj9fnjy9YPoS
-l0Qe67a5XoiVk9O3LTqG/AyUladbbQOy28urZI0oZ8PJ2lTfV9N9uwfuZhH+4wK8
-8W6K+V4aU7MLHdmhlHMCjtkgukVD3RyncBoSeFkyTzcnwhv4bO2rbXEBO4IVvn6o
-8jrQpof8xg17UAMw4td2z8bj0ThMRp23G3BrRvx/VJDV4rOTN7IXWQszPVrxs5rd
-VEDPrs76Z5DekZZO9GgWl/zjf+uhIVWmgKxNhG3GzzvRvfcqVhWrSTdMBHW4AGgZ
-3rJgD8Eb/gIGvUuQLUen8I38e2jgj5pBPty+SAV+D8MlrkufDirV+xMY3WnpFdRD
-Bl7CfEEh7wOiTbIsjshdgyjipYqLHnur9jNgGFJxG+yg/inpLzVKci7fwSSXKVGX
-XcbbUJUPDxfh/+Kt5kIHW8CQnf7R8Do1d6FPkNJxdb3NrunRpa0=
-=+dgg
+iQIzBAEBCAAdFiEEC7WoMwMc79jyvAKZAlFb0H/oOtAFAmBpH4EACgkQAlFb0H/o
+OtAljw//bl9jD7Jza8Y/WlU0w4fQ/peZBC8oiMxSPEjGGN3I9CvoBftQKkHNbIgz
+InluN1fOPxcZmbC1tD5McApHislSdzC5rseA+sjtLOLJLrB79cSTK1sbcOXh7dqd
+60ejq5nErrRUZ4H0FLMa/3SZHydCv6r4md0/fUK7E5oFiz7zi87CnJt/Y7RNCOob
+6XpQ5i/t6nq2R+0JlyRszzX6kzF4tJIT0+VCJmAPhw+g1Z+0VpNUi0eT16KyxWQX
+wsMW4QxF6NJ/Oeb6BMJEez2zSOb9WDjrkD7SSAqJ/hM2whgxl6JqJLR/h/o+R0v1
+V2WNPHOPbJRkRURTVfaMUV8162fvz27zdjb35qxwbYhWYylcJKB+e4M5XKDiBAXU
+Z3r3zM9Ad8Wt0t3wU7J8FZI1E6DkWiOvBWFI6YEpgyvDdWE7T9yGHoADcw8giyXl
+ctghCQFKS8PeOSNg/WhHSkXo9vELueYWBYArZLmkuzdYmq98Amj1OguhEjIvPCU1
+mq/Q4V2T39dNeG8Wasedjemn/fd7V2k77tG0aBGBsXhI+ozgrEP6vgiHBoFGgRyh
+lVOCKxCdfxV8jZCzk+2J7L1SCWBnw2phzhJn2glxJx38ZnxNAK0tBxBGS3ygfhiN
+3fkdSJ7PvaR07Gg7vHg/7vcFYm5b14o1/5GXnJFqLZG6itYVnDg=
+=X+d4
 -----END PGP SIGNATURE-----
