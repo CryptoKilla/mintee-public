@@ -79,31 +79,31 @@ West Adams Investment Fund - Financial Backer
 
 ### We are currently working to build our core development team. If you have the skill sets we are seeking and wish to contribute with this project please reach out. If you are working on a project that would merge well this project, we are interested in partnerships. Contact information can be found at the end of this document.
 
-**We need the following positions and skills within our team:**
-DApp Developers experienced with the Cardano, Tezos & Ravencoin Blockchains
-Cardano, Tezos & Ravencoin Node Developers
-Node.Js, Web3 & IPFS Developers 
-Front-end Web Developer
-Back-end Web & Content Management Developer
+**We need the following positions and skills within our team:**  
+DApp Developers experienced with the Cardano, Tezos & Ravencoin Blockchains  
+Cardano, Tezos & Ravencoin Node Developers  
+Node.Js, Web3 & IPFS Developers   
+Front-end Web Developer  
+Back-end Web & Content Management Developer  
 
 Please Email resume to MintNFT@gmail.com for consideration. Please speifcy if you are willing to work on volunteer basis.
 
 ### We are seeking to expand our funding by partnering with investors looking to get early access to the NFT Art Market while it is still in its early stages.
 
-**We need long term funding for the following:**
-To ensure our developers can contribute full time to this project. This means moving outside of contracting freelance developers to code portions of the project and moving towards a committed development team that is able to collaborate openly on the project.
-To obtain a development server within which to host all blockchain testnet nodes, our development environment & beta versions of all code for testing.
-To obtain a server system for hosting the market place, the NFT Minter Engines, the NFT Swapper protocol, & all mainnet blockchain nodes for supporting technologies.
+**We need long term funding for the following:**  
+To ensure our developers can contribute full time to this project. This means moving outside of contracting freelance developers to code portions of the project and moving towards a committed development team that is able to collaborate openly on the project.  
+To obtain a development server within which to host all blockchain testnet nodes, our development environment & beta versions of all code for testing.  
+To obtain a server system for hosting the market place, the NFT Minter Engines, the NFT Swapper protocol, & all mainnet blockchain nodes for supporting technologies.  
 To build a marketing team that will fulfill two functions: to promote a market place to artists, collectors, the NFT community & to obtain partner artists both within and from outside of the NFT community; and to promote the market place to potential investors to increase the funding behind the project.
 
 ### We are looking to partner with artists both currently in the NFT space as well as artists from outside of this rapidly growing community.
 
-**We are seeking the following Artists:**
-A unique collectible series to launch with the platform
-Artist from all types of art spaces including but not limited too: Digital, Painters, Photographers & other Analog Artist, Musicians from all genres, Poets & Writers, 3D Artist (including Video Game & Cinema Assets), Augmented Reality & Virtual Reality, Clothing & Apparel Designers, Jewelry Artist & Performance Artist
-Artist to launch a series exclusive to the market with the market launch
-Musicians to launch an album exclusive to Mintee at launch. Would really like an artist willing to release a "Hidden Track" with their album with limited production.
-Gallery Designer to design a stunning gallery that is a piece of art itself to use as a virtual reality gallery featuring our partnered launch artist. Back end of the virtual gallery
+**We are seeking the following Artists:**  
+A unique collectible series to launch with the platform  
+Artist from all types of art spaces including but not limited too: Digital, Painters, Photographers & other Analog Artist, Musicians from all genres, Poets & Writers, 3D Artist (including Video Game & Cinema Assets), Augmented Reality & Virtual Reality, Clothing & Apparel Designers, Jewelry Artist & Performance Artist  
+Artist to launch a series exclusive to the market with the market launch  
+Musicians to launch an album exclusive to Mintee at launch. Would really like an artist willing to release a "Hidden Track" with their album with limited production.  
+Gallery Designer to design a stunning gallery that is a piece of art itself to use as a virtual reality gallery featuring our partnered launch artist. Back end of the virtual gallery  
 
 We are planning on opening stake pools on both the Cardano & Tezos networks soon, the profits from which will be used to sustain this project. Be on the lookout for these pools to open up and you can stake in these pools to help us earn passive income. 
 
@@ -226,10 +226,10 @@ This means low fees (always 1% fee on sales only to Mintee), we commit to workin
 
 This section will expand as questions about the project come in.
 
-Q: Will this project be open source.
+Q: Will this project be open source?  
 A: Eventually this project will release most of the pieces of our back end functionality as open source software. This will happen as the code base is ensured to be fully functional as indented, thoroughly debugged & stress tested, and intensely pen-tested. Our proprietary software will not be released until after the initial full launch of the marketplace of course.
 
-Q: How soon after the Cardano smart contracts update will you be ready to produce Cardano NFTs
+Q: How soon after the Cardano smart contracts update will you be ready to produce Cardano NFTs?  
 A: We are working with the Cardano updates to testnet as they are released and already working to produce our Cardano smart contract, assuming a smooth update we should be ready to mint immediately.
 
 
