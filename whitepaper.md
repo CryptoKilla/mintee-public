@@ -1,8 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-
-
 
 # Introducing Mintee.
 
@@ -120,18 +115,18 @@ Development Team:
 * Additional Developer Salary - 30,000/yr Full Time x4 120,000/yr
 * Additional Developer Salary -  2,250/mo Part Time - As needed and budget can sustain
 
->>> Total Setup Cost: $54,000/qr
+>> Total Setup Cost: $54,000/qr
 
->>>>>> Total Development Team Salary Budget $0
+>>>> Total Development Team Salary Budget $0
 
 
 Marketing Team:
 * Outsourced Agency - 2,000/mo - 24,000/yr
 * In House Marketing Team - 28,000/yr x3 84,000/yr - As budget expands phase out outsource agency & move to in house 
 
->>> Total Marketing Cost: $6,000/qr
+>> Total Marketing Cost: $6,000/qr
 
->>>>>> Total Marketing Budget $6,000
+>>>> Total Marketing Budget $6,000
 
 
 Setup Cost:
@@ -140,9 +135,9 @@ Setup Cost:
 * Mainnet / Back-end Servers 2 Years - $3,350
 * Web Host Server 3 Years - $75
 
->>> Total Setup Cost: $5,315
+>> Total Setup Cost: $5,315
 
->>>>>> Total Development Cost Budget $12,000
+>>>> Total Development Cost Budget $12,000
 
 
 Project Total Cost & Budget:
@@ -229,8 +224,6 @@ This means low fees (always 1% fee on sales only to Mintee), we commit to workin
 
 This section will expand as questions about the project come in.
 
-~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
-
 Q: Will this project be open source.
 A: Eventually this project will release most of the pieces of our back end functionality as open source software. This will happen as the code base is ensured to be fully functional as indented, thoroughly debugged & stress tested, and intensely pen-tested. Our proprietary software will not be released until after the initial full launch of the marketplace of course.
 
@@ -238,19 +231,28 @@ Q: How soon after the Cardano smart contracts update will you be ready to produc
 A: We are working with the Cardano updates to testnet as they are released and already working to produce our Cardano smart contract, assuming a smooth update we should be ready to mint immediately.
 
 
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+
+Thank you
+The Mintee Team
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEC7WoMwMc79jyvAKZAlFb0H/oOtAFAmBpH4EACgkQAlFb0H/o
-OtAljw//bl9jD7Jza8Y/WlU0w4fQ/peZBC8oiMxSPEjGGN3I9CvoBftQKkHNbIgz
-InluN1fOPxcZmbC1tD5McApHislSdzC5rseA+sjtLOLJLrB79cSTK1sbcOXh7dqd
-60ejq5nErrRUZ4H0FLMa/3SZHydCv6r4md0/fUK7E5oFiz7zi87CnJt/Y7RNCOob
-6XpQ5i/t6nq2R+0JlyRszzX6kzF4tJIT0+VCJmAPhw+g1Z+0VpNUi0eT16KyxWQX
-wsMW4QxF6NJ/Oeb6BMJEez2zSOb9WDjrkD7SSAqJ/hM2whgxl6JqJLR/h/o+R0v1
-V2WNPHOPbJRkRURTVfaMUV8162fvz27zdjb35qxwbYhWYylcJKB+e4M5XKDiBAXU
-Z3r3zM9Ad8Wt0t3wU7J8FZI1E6DkWiOvBWFI6YEpgyvDdWE7T9yGHoADcw8giyXl
-ctghCQFKS8PeOSNg/WhHSkXo9vELueYWBYArZLmkuzdYmq98Amj1OguhEjIvPCU1
-mq/Q4V2T39dNeG8Wasedjemn/fd7V2k77tG0aBGBsXhI+ozgrEP6vgiHBoFGgRyh
-lVOCKxCdfxV8jZCzk+2J7L1SCWBnw2phzhJn2glxJx38ZnxNAK0tBxBGS3ygfhiN
-3fkdSJ7PvaR07Gg7vHg/7vcFYm5b14o1/5GXnJFqLZG6itYVnDg=
-=X+d4
+iQIzBAEBCAAdFiEEC7WoMwMc79jyvAKZAlFb0H/oOtAFAmBpIRYACgkQAlFb0H/o
+OtDGNRAAh/Mh9VH+d/3e/21MG45lv3XbHsyX8oU+UYKk0wIeajKdAv3UqZA5LgH1
+3bn3jCNTRjRPCJmYZDhqT/cDos+MsRHmGR/2uVpifCk9bH5toSWdc7xJSXC8atVE
+ROiZsv7HTRRNIgdg1D15lCpRBCbcnsDCLX051RSB4gBf3mKh+/vGBMxAaJjm7/zx
+GXo3iluLXvmR1YCVH72ePaSHwI+eiLXGzQ208bB9uCGqj3rJkB1c71LM+T3MKcTi
+d211IPs0YuZ371AWh+xb0gdqQ0cLuJYnD12vTqwTmY4ZgaoGC5Tl+mScFy2+3y5Z
+mSMBEKjlO+PgGmNOGlp8MpLNgriZ6cDJmETs8GvNq/pdNm4JsdPln/K0+NL4Q+rZ
+IEARBSEsYiZwx6DUgL06lgF5qz1BnrN16xALFsPmcwJuIdZeA3PmXqx7DVF1GhzI
+XMXxAwwcUraNfjzh8HN473BxCf8ucq28hBONugSaYBhjUEnxzeGLwLgGoXcC05Kc
+zzJjbsNuU+ZNUVNmhezysDkM5NckALX6HA6wVf2/zboajAkarR/faOVnMaSlx21Q
+UEN6kDCkKqzuPWehDA/FCn/ko16Pj91YXfZkxjF7ciGiru0w7YfP2oUw8Vco3K3t
+Q5+XlKLj6s1H2w6tSR7md+YOWJGNJAFb6fPUqQ4iPLjh2yISHSg=
+=rqtT
 -----END PGP SIGNATURE-----
