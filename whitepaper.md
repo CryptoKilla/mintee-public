@@ -222,7 +222,7 @@ We aim to create and maintain an NFT art market that is user friendly, versatile
 This means low fees (always 1% fee on sales only to Mintee), we commit to working to maintain the lowest possible transaction & minting fees with each blockchain and adjusting our smart contract policies as needed. This also means you can expect us to be keeping an eye on all blockchain projects that unlock the potential for NFTs as integrating into our network. We also commit to building a platform that is user friendly and ensures that the transition to cryptocurrency and NFT tokens is as painless as possible for any artist looking to enter the space. Furthermore we commit to building an environment that allows all types of art to thrive in a non competitive manner.
 
 
-#Q&A
+# Q&A
 
 This section will expand as questions about the project come in.
 
@@ -231,6 +231,19 @@ A: Eventually this project will release most of the pieces of our back end funct
 
 Q: How soon after the Cardano smart contracts update will you be ready to produce Cardano NFTs?  
 A: We are working with the Cardano updates to testnet as they are released and already working to produce our Cardano smart contract, assuming a smooth update we should be ready to mint immediately.
+
+
+## Contact
+
+**Mintee Core Team**  
+Email: MinteeNFT@gmail.com  
+Twitter: Launching April 20th 2021  
+Discord: https://discord.gg/GHuX4dSDe8 Just launched not yet active.  
+
+**Project Manager**  
+Email: CryptoKilla.dg@gmail.com  
+Twitter: https://twitter.com/WallStBetsWolf  
+Discord: ¢ryptØ KillⒶ#2370  
 
 
 
