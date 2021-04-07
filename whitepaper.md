@@ -88,7 +88,7 @@ Node.Js, Web3 & IPFS Developers
 Front-end Web Developer  
 Back-end Web & Content Management Developer  
 
-Please Email resume to MintNFT@gmail.com for consideration. Please speifcy if you are willing to work on volunteer basis.
+Please Email resume to MinteeNFT@gmail.com for consideration. Please speifcy if you are willing to work on volunteer basis.
 
 ### We are seeking to expand our funding by partnering with investors looking to get early access to the NFT Art Market while it is still in its early stages.
 
