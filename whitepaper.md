@@ -72,6 +72,8 @@ Steven Watkins - Project Coordinator
 
 Edward Dawson - Smart Contract Coder
 
+George Watkins  - Senior Network Engineer
+
 West Adams Investment Fund - Financial Backer
 
 
