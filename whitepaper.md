@@ -109,6 +109,15 @@ Gallery Designer to design a stunning gallery that is a piece of art itself to u
 
 We are planning on opening stake pools on both the Cardano & Tezos networks soon, the profits from which will be used to sustain this project. Be on the lookout for these pools to open up and you can stake in these pools to help us earn passive income. 
 
+**Donate to support Mintee development**  
+We have just launched a set of crypto currency wallets to accept donations that will be used to sustain the development of this project  
+**$BTC:** 1GduzqkzjFb8cu9rjkTwCmi4WgUn13wDjm  
+**$ETH:** 0x262476EE04FaaaB9B0E23b5004a0b734e17311B9  
+**$LTC:** LZiMZHBWxA1Euwh5qYsgP4zsEeK7QgksWT  
+**$ADA:** addr1qx3kk06rwas5nztzf3gzg58kcaaj5kvfexyt8x66sz0sevvnd4eupsqxh724ggjj4wjn2l0n5rzfh35v2x00ye4685fssyxhpa  
+**$XTZ:** tz1YqyDjbZAGDYPNg4sV3QiFoyqhVe5FyToy  
+**$RVN:** RBsYfA2JE1bBRUASTEBBaxPCSVQQcoEyFP  
+
 
 # Funding & Expenses:
 
