@@ -249,7 +249,7 @@ A: We are working with the Cardano updates to testnet as they are released and a
 **Mintee Core Team**  
 Email: MinteeNFT@gmail.com  
 Twitter: Launching April 20th 2021  
-Discord: https://discord.gg/GHuX4dSDe8 Just launched not yet active.  
+Discord: https://discord.gg/GHuX4dSDe8  
 
 **Project Manager**  
 Email: CryptoKilla.dg@gmail.com  
